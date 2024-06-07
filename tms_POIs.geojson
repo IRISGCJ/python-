@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "开山老殿", "text": "正式寺名叫狮子正宗禅寺，始建于元朝至元十六年（公元1275年）。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/开山老殿_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.433570618477304, 30.342005463166071 ] } },
+{ "type": "Feature", "properties": { "NAME": "七里亭", "text": "七里亭也称眠牛亭，附近有眠牛石。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/七里亭_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.431885138721981, 30.338603129376626 ] } },
+{ "type": "Feature", "properties": { "NAME": "五里亭", "text": "五里亭也称如斯亭，取孔子《论语》中“逝者如斯乎”之意。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/五里亭_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.43448820451303, 30.336792402584074 ] } },
+{ "type": "Feature", "properties": { "NAME": "三里亭", "text": "三里亭也称依翠亭。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/三里亭_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.436429909243103, 30.334296304956073 ] } },
+{ "type": "Feature", "properties": { "NAME": "一里亭", "text": "一里亭也称仰止亭。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/一里亭_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.439047316349544, 30.329573074859507 ] } },
+{ "type": "Feature", "properties": { "NAME": "禅源寺", "text": "位于天目山南麓昭明、旭日两峰之下，是韦驮菩萨应迹道场。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/禅源寺_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.442479805937296, 30.323704943983515 ] } },
+{ "type": "Feature", "properties": { "NAME": "太子庵", "text": "梁代昭明太子萧统读书的地方。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/太子庵_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.439293461245725, 30.324249976628121 ] } },
+{ "type": "Feature", "properties": { "NAME": "红庙", "text": "红庙为天目山最古老的土地庙。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/红庙_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.451030811612796, 30.327707058439501 ] } },
+{ "type": "Feature", "properties": { "NAME": "旅游服务中心", "text": "景区班车停车场。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/旅游服务中心_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.442904682426843, 30.315898477960829 ] } },
+{ "type": "Feature", "properties": { "NAME": "仙人顶", "text": "仙人顶为天目山主峰，海拔1506米。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/仙人顶_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.42380805243009, 30.349345053164754 ] } },
+{ "type": "Feature", "properties": { "NAME": "蔷薇花园", "text": "实习住宿酒店。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/蔷薇花园_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.444506586136455, 30.31149447148016 ] } },
+{ "type": "Feature", "properties": { "NAME": "天目村", "text": "以前叫大有村，植被实习点（象鼻山）。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/天目村_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.450756825902118, 30.292566364273743 ] } },
+{ "type": "Feature", "properties": { "NAME": "下朱陀岭水库", "text": "位于九狮村，地质岩层观测点。", "photo_url": "https://EcnuGISChaser.github.io/gis_development/photo/下朱陀岭水库_thumbnail.png" }, "geometry": { "type": "Point", "coordinates": [ 119.456587972185304, 30.324851080887697 ] } }
+]
+}
